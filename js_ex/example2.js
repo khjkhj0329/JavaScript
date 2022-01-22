@@ -1,4 +1,4 @@
-if(ture){
+if(true){
     console.log("1");
 }
 else{

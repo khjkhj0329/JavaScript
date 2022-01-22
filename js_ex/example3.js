@@ -1,10 +1,10 @@
-if(ture){
+if(true){
     console.log("1");
 }
-else if(ture){
+else if(true){
     console.log("2");
 }
-else if(ture){
+else if(true){
     console.log("3");
 }
 else{
